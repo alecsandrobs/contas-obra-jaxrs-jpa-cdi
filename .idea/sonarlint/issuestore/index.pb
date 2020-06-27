@@ -5,8 +5,6 @@
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 n
 >src/main/java/com/stolk/alecsandro/obra/modelo/Fornecedor.java,d/c/dc3c7f8d48e2867c5b42137c87235cc573d938bc
-e
-5src/test/java/com/stolk/alecsandro/obra/ObraTest.java,6/9/692856c1ee7cd730e390cc22430d60c37a05c3a5
 p
 @src/main/java/com/stolk/alecsandro/obra/bean/LancamentoBean.java,1/b/1bd62aa7964e0f8d03d95638781855df0f1db4d6
 k
@@ -43,8 +41,12 @@ Q
 Qsrc/main/java/com/stolk/alecsandro/obra/transacao/TempoDeExecucaoInterceptor.java,b/2/b2cd93abc2de45827ab4e50fb533cdd7bef0ef0c
 f
 6src/main/java/com/stolk/alecsandro/obra/banco/Dao.java,a/e/aeca1e596ae7990960c7741055e3a04edecb6a09
-e
-5src/test/java/com/stolk/alecsandro/obra/Consulta.java,7/c/7cfa3a38e9c1e689a556176b348da8f12c7456c4
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+I
+src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+o
+?src/main/java/com/stolk/alecsandro/obra/JAXRSConfiguration.java,2/1/2142b6e4d93749b9906674d38cf2fdb641a64103
